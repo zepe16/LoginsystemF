@@ -42,7 +42,8 @@ function Login() {
     };
     return (
         <div className='div'>
-            <h1>Login System de Matheus</h1>
+            <h1>Login System</h1>
+            <h2>Feito por Vinicius De Marco</h2>
             <form>
                 <label>
                     Usuário:
